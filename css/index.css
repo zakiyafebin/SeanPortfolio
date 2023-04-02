@@ -76,11 +76,22 @@ hr{
 .what-i-can-do{
     text-align: center;
     font-size: 3rem;
-    color: #000;
+    
     color: #4FB49C;
+}
+.what{
+    text-align: center;
+    font-size: 2rem;
+    
+    color: #4FB49C;
+
+
 }
 .icons{
     width: 10%;
     height: 10%;
     border-radius: 50%;
 }
+.imgTab th, td {
+    padding : 3rem 5rem;
+  }
